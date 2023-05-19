@@ -1,0 +1,32 @@
+body{
+    background-color: darkorange;
+}
+header{
+    background-color: gray;
+    padding: 22px;
+}
+nav{
+    background-color: brown;
+    padding: 24px;
+}
+section{
+    background-color: aliceblue;
+}
+article{
+    background-color: darkorange;
+}
+article{
+    background-color: darkorange;
+}
+aside{
+    background-color: brown;
+    width: 30px;
+    float: right;
+}
+footer{
+    background-color: darkslategray;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
